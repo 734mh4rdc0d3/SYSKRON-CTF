@@ -1,0 +1,3 @@
+open the inspect element tools in firefox and see the response headers and find the flag.
+
+flag: syskronCTF{y0u-f0und-a-header-flag}

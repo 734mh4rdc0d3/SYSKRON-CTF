@@ -1,0 +1,6 @@
+the question says something about unique identification numbers' ISO standard.
+
+a quick google search on the "credit card number ISO standard" returns us a standard that is named ISSUER INDENTIFICATION NUMBER Standard.
+Also the standard number is listed. 
+
+flag: syskronCTF{ISO/IEC-7812}

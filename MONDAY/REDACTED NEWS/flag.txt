@@ -1,0 +1,7 @@
+the uploaded file is a news report in CZECH language.
+
+I just uploaded the file on fotoforensics.com and looked for hidden pixels.
+
+link: http://fotoforensics.com/analysis.php?id=3ef187eeb261697822164a5bceee3b4aad369d20.144195
+
+flag: syskronCTF{d0-Y0u-UNdEr5TaND-C2eCh?}

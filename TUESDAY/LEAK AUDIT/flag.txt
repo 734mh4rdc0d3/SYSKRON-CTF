@@ -1,0 +1,12 @@
+use DB browser for SQLite tool in kali and visualize the given db file properly.
+
+the DB gives the asnwer to the first question: 376 total records.
+
+Second question can be answered by the following SQL query.
+SELECT password FROM personal WHERE password IN (SELECT password FROM personal GROUP BY password HAVING COUNT(*) >1); : mah6geiVoo
+
+In the end we can see passwords starting with $ sign. I suppose these are the password given by Bcrypt.
+the following query answers the third question.
+SELECT count(password) from personal where password like "$%"; : 21
+
+flag: 376_mah6geiVoo_21 

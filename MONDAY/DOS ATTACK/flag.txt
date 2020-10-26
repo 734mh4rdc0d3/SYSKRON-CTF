@@ -1,0 +1,11 @@
+Name of the malware is asked.
+
+the first name that comes to mind while searching for malware is virustotal.
+
+given is the PCAP file with only the DNS DDOS traffic.
+No antivirus would flag it as harmful but snort would flag it as DOS attack.
+
+going through the details of the snort report we find the name of the malware.
+link: https://www.virustotal.com/gui/file/7eba47f42eec2a8553faca4a1f1a394f08ca37798f840ebff3b55eccb67ee1ad/details
+
+flag: syskronCTF{Industroyer}
